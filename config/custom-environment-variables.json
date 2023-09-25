@@ -1,0 +1,5 @@
+{
+        "password" : "DB_PASSWORD",
+        "username" : "DB_USERNAME",
+        "jwtPrivateKey" : "JWTPRIVATEKEY"
+}
